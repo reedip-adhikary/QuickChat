@@ -72,5 +72,25 @@ h3{
 }
 
 footer li{
+    margin-bottom: 10px;
+}
+
+li{
+    font-size: 12px;
+}
+
+.contact{
+    font-size: 12px;
+}
+
+.notexadd{
+    margin-top: 10px;
+}
+
+.add{
+    font-size: 12px;
+}
+
+.notex{
     margin-bottom: 20px;
 }
